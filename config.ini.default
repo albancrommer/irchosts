@@ -1,0 +1,5 @@
+dbname="ircip"
+dbuser="user"
+dbpwd="pwd"
+dbhost="localhost"
+;dbport=3306
