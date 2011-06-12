@@ -1,0 +1,17 @@
+
+array(5) {
+  ["dbname"]=>
+  string(5) "ircip"
+  ["dbuser"]=>
+  string(4) "root"
+  ["dbpwd"]=>
+  string(1) "z"
+  ["dbhost"]=>
+  string(9) "localhost"
+  ["dbport"]=>
+  string(4) "3306"
+}
+####### CHANNEL : nwn2cr #########
+####### SERVER : s002.noetisys.com #########
+
+Warning: mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (1) in /Library/WebServer/Documents/ircbot/bot-spawn.php on line 60

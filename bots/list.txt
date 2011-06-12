@@ -1,0 +1,4 @@
+4560,irc.freenode.net,6667,alban,fatlookom,1307916158
+4575,irc.freenode.net,6667,frlab,fatlookom,1307916216
+5183,irc.freenode.net,6667,laquadrature,fatlookom,1307917897
+5271,s002.noetisys.com,6667,nwn2cr,fatlookom,1307918071
