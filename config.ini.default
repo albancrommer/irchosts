@@ -1,5 +1,5 @@
-dbname="ircip"
-dbuser="user"
-dbpwd="pwd"
-dbhost="localhost"
+dbname="irchosts"
+dbuser="irchostsuser"
+dbpwd="et8kwieQpQng"
+dbhost="db4free.net"
 ;dbport=3306
